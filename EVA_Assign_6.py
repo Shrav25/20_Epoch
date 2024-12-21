@@ -138,7 +138,7 @@ def eval_model(model,test_loader):
     return 100 * correct/total
 
 # correct, total = eval_model(model,test_loader)
-# accuracy = 100*correct/total
+accuracy = 100*correct/total
 
 
 # In[15]:
